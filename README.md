@@ -1,10 +1,10 @@
 # Name
-PyGameBot
+PyAutomation
 
 ## Overview
-This is a generic game bot program template using PyAutoGui and OpenCV.
+This is a template for a generic automation program using PyAutoGui and OpenCV.
 
-Most games can be automated.
+It can automate almost any operation.
 
 ## Requirement
 pip install pyautogui
@@ -21,7 +21,7 @@ This is a template and will not work as is.
 
 It is necessary to describe the main loop processing according to the operation you wish to automate.
 
-The variable app_name must be set to the title of the game window.
+The variable app_name must be set to the title of the window.
 
 This program will be terminated by pressing the ESC key. (check_esc_key function).
 
