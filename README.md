@@ -95,10 +95,3 @@ Obj.match_binary(self,[tuple]([int] x,[int] y,[int] w,[int] h),[float]fuzzy) -> 
 cv_display() -> return None
 
 >If cv_display_flag is True, draw matching results in real time
-
-## Author
-[![Twitter: ReekerZrZr](https://img.shields.io/twitter/follow/ReekerZrZr?style=social)](https://x.com/ReekerZrZr)
-
-## Licence
-
-[MIT](https://opensource.org/licenses/mit-license.php)
